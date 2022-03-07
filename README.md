@@ -16,9 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/grbzhmet)
-
-lutter was also created to get started on a project quickly. You will save time with this project.
+Flutter was also created to get started on a project quickly. You will save time with this project.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
